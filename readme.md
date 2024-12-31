@@ -1,4 +1,4 @@
-##zw-comfy,功能强大的,集成式AIGC创意平台.
+## zw-comfy,功能强大的,集成式AIGC创意平台.
 ### APLLE苹果OOTB"开箱即用"模式（out-of-the-box)
 * 内置全套comfyUI软件,100%兼容,并可同步升级.
 * 内置数十套常用热门插件node,以及配套的资源模型.
