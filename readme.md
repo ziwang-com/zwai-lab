@@ -1,4 +1,8 @@
-## zw-comfy,功能强大的,集成式AIGC创意平台.
+## zw-comfy插件,功能强大的,一站式开源集AIGC创意平台.
+全球三大集成式Python开发平台:zwPython智王Python最新AIGC强化版.
+详情其参见:(正在升级中,请等待...)
+https://github.com/ziwang-com/zwPython
+
 ### APLLE苹果OOTB"开箱即用"模式（out-of-the-box)
 * 内置全套comfyUI软件,100%兼容,并可同步升级.
 * 内置数十套常用热门插件node,以及配套的资源模型.
