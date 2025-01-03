@@ -4,6 +4,7 @@
 * 全球三大/目前唯一，集成式AI开发平台。
 * GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
 * 行业首个AI-workflow工作流导向的智能IDE。
+* comfyUI+vscode，两大神器首次跨界融合。
 * 系统源自zwPython，超过十年的开源Pyhon项目
 * 扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。
 
@@ -48,7 +49,7 @@
 * 为方便用户，自行安装、更新python模块库，在主目录下，提供了一个xpip.bat批命令。
 * d:\zwai-lab\xpip.bat
 * 例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
-* zwai-lab>>xpip 
+* zwai-lab>>xpip pandas
 
 # 【目录说明】
 * D:\zwai-lab\.cache，hf模型下载目录，python模块库安装缓冲目录。
@@ -104,18 +105,10 @@
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 * 百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
   
-
+![xh016](https://github.com/user-attachments/assets/4e50413a-29b8-4fc8-bbb3-2b1fdac97256)
 
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
-
-全球首个集成式GPT开发平台。
-全球三大集成式python开发平台，zwPython-AI最新优化升级版。
-强化了llm大语言模型的开发能力，
-采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
-智王AI项目，均采用 zw-GPT-studio 开发：
-AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
-
 
 
 
