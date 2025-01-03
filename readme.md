@@ -103,7 +103,10 @@
 * #
 * 智王Git网址：https://github.com/ziwang-com/
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
-* 百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
+
+##【智王AI资源库】
+*  百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
+*  阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
   
 ![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
 
