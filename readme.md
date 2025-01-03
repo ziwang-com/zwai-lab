@@ -1,4 +1,4 @@
-# zwai-lab智王AI工坊
+![image](https://github.com/user-attachments/assets/ac2feafe-0b2b-411d-b079-b88e0d5e85df)# zwai-lab智王AI工坊
 
 zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
 
@@ -6,10 +6,12 @@ zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-ID
 
 系统源自zwPython，超过十年的开源Pyhon项目，曾用名：zw-GPT-Studio，zw-comfy。
 
+![Uploading zwpy001.JPG…]()
+
+
 ## 主要特色
-* 全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
-* zwai-lab是行业首个集成式AI开发平台。
-* 行业首个AI-workflow智能工作流导向的AI-IDE。
+* 全球三大/目前唯一，高效支持AI开发的集成式Python开源平台。
+* 行业首个AI-workflow工作流导向的智能IDE。
 
 
 * 内置vscode，以及多种高效率python、AI编程插件。
