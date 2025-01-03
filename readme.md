@@ -9,6 +9,11 @@
 * 根正苗红，源自zwPython，十年老牌开源Python项目。
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
+* 俗话说：内行看门道，外行看热闹。
+* 这张截图，可以从多个方面显示zwai团队的技术深度。
+* 可以作为AI公司HR，辨别小白和AIGC老鸟的一个神器。
+* 有时间再专门写个公众号技术blog细说。
+* 有兴趣的网友，也可以写写，或者在zwai-lab项目【留言】/【讨论】栏目聊聊。
 
 ## 【主要特色】
 * 内置vscode，以及多种高效python、AI编程插件。
