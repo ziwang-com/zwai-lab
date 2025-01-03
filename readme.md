@@ -1,92 +1,81 @@
 # zwai-lab智王AI工坊
 
 ![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
-
+  
 * zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
 * 是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
 * 系统源自zwPython，超过十年的开源Pyhon项目
 * 曾用名：zw-GPT-Studio，zw-comfy。
+* zwai-lab智王AI工坊，以及相关软件，模型，均可在zwai社区【资源中心】免费下载。
+* 扫描QQ群二维码，即可免费加入下载。
+
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
 
-## 主要特色
+## 【主要特色】
 * 全球三大/目前唯一，高效支持AI开发的集成式Python开源平台。
 * 行业首个AI-workflow工作流导向的智能IDE。
-
-
-* 内置vscode，以及多种高效率python、AI编程插件。
+* 内置vscode，以及多种高效python、AI编程插件。
 * 百分百兼容comfy，可同步升级更新。
 * 内置数十组AIGC、3D、短视频插件。
 
+## 【安装&使用方法】
 
-https://github.com/ziwang-com/zwPython
-APLLE苹果OOTB“开箱即用”模式（out-of-the-box）
-内置全套comfyUI软件，100%兼容，并可同步升级.
-内置数十套常用热门插件node，以及配套的资源模型.
-内置数十套常用热门大模型，包括FLUX，SANA，GPT，PIXART，以及VIDEO视频模型.
-内置数十套常用热门工作流，json格式.
-内置大量开源案例，涵盖comfy官方网站全套学习课件.
-内置多款，ziwang字王网站原创AIGC资源.
-metafont原字库node插件，万能中英文字体插件，无需安装，支持truetype，openfont专业字体格式，以及jpg/png/gif/avi等多种unicode图像字库.
-内置文泉轩,王宗汉,字王大藏经等多款开源中文字库.
-
-
-【使用方法】
-
-采用苹果OOTB“开箱即用”模式（out-of-the-box），无需安装，解压即用。
+* 采用苹果OOTB“开箱即用”模式（out-of-the-box），无需安装，解压即用。
 默认安装在D盘根目录：
-d:\zwai-lab
+** d:\zwai-lab
 
-注意：
-只有一级zwai-lab目录，以下有两层子目录，是错误解压：
-d:\zwai-lab\zwai-lab\zw.bat
-把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
+* 注意：
+** 只有一级zwai-lab目录，以下模式：
+** d:\zwai-lab\zwai-lab\zw.bat
+** 有两层子目录，是错误解压：
+** 把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
 
-#1，运行comfy
-解压后，直接运行：
-d:\zwai-lab\zw.bat
-即可进入AIGC系统，运行comfy，打开浏览器。
-comfy升级维护，请参看comfy文档，运行以下目录升级命令即可。
-d:\zwai-lab\update
+### 1#，运行comfy
+* 解压后，直接运行：
+** d:\zwai-lab\zw.bat
+* 即可进入AIGC系统，运行comfy，打开浏览器。
+* comfy升级维护，请参看comfy文档，运行以下目录升级命令即可。
+** d:\zwai-lab\update
 
-#2，运行vscode
-解压后，直接运行：
-d:\zwai-lab\vscode\code.exe
-即可进入python开发编程环境。
-vscode升级，请下载便携版，直接解压覆盖即可。
+### 2#，运行vscode
+* 解压后，直接运行：
+** d:\zwai-lab\vscode\code.exe
+* 即可进入python开发编程环境。
+* vscode升级，请下载便携版，直接解压覆盖即可。
 
-@#3：安装升级python模块库
-为方便用户，自行安装、更新python模块库，在主目录下，提供了一个xpip.bat批命令。
-d:\zwai-lab\xpip.bat
-例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
-zwai-lab>>xpip 
+### 3#：安装升级python模块库
+* 为方便用户，自行安装、更新python模块库，在主目录下，提供了一个xpip.bat批命令。
+** d:\zwai-lab\xpip.bat
+* 例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
+** zwai-lab>>xpip 
 
+## 【目录说明】
+* D:\zwai-lab\.cache，hf模型下载目录，python模块库安装缓冲目录。
+* D:\zwai-lab\ComfyUI，工作流、AIGC-comfyUI主目录
+* D:\zwai-lab\doc，用户文档
+* D:\zwai-lab\python_embeded，python运行环境目录
+* D:\zwai-lab\update，comfy升级维护目录
+* D:\zwai-lab\VSCode，python编程ide程序。
+* D:\zwai-lab\zout，默认用户输出目录
+* #
+* D:\zwai-lab\zw.bat，运行comfy
+* D:\zwai-lab\xpip.bat，安装升级pyhton模块库
+* D:\zwai-lab\vscode\code.exe，运行python编程ide。
 
-【目录说明】
-D:\zwai-lab\.cache，hf模型下载目录，python模块库安装缓冲目录。
-D:\zwai-lab\ComfyUI，工作流、AIGC-comfyUI主目录
-D:\zwai-lab\doc，用户文档
-D:\zwai-lab\python_embeded，python运行环境目录
-D:\zwai-lab\update，comfy升级维护目录
-D:\zwai-lab\VSCode，python编程ide程序。
-D:\zwai-lab\zout，默认用户输出目录
-#
-D:\zwai-lab\zw.bat，运行comfy
-D:\zwai-lab\xpip.bat，安装升级pyhton模块库
-D:\zwai-lab\vscode\code.exe，运行python编程ide。
-
-
-【运行环境】
-windows
-cuda-12.4
-python-3.12
+## 【运行环境】
+* windows 10,11
+* cuda-12.4+
+* python-3.12+
 
 
-运行前，请确保系统已经安装好cuda运行环境，部分模块和维护，可能需要安装相关软件，
-python模块库，需要c编译软件，请下载：vc2022，或c语言v17版本，选择desktop桌面开发模式。
-相关软件，均可在zwai社区【资源中心】下载。
-ffmpeg、Git、graphviz。
+* 运行前，请确保系统已经安装好cuda运行环境，部分模块和维护，可能需要安装相关软件。
+** ffmpeg、Git、graphviz。
+* python模块库，需要c编译软件，请下载：vc2022，或c语言v17版本，选择desktop桌面开发模式。
+* 以上cuda运行库，以及相关软件，均可在zwai社区【资源中心】免费下载。
+* 扫描QQ群二维码，即可免费加入下载。
+
 
 
 
@@ -131,6 +120,16 @@ zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 
 最新版本和更多资料，大家可以请访问以下网站：
 
+https://github.com/ziwang-com/zwPython
+APLLE苹果OOTB“开箱即用”模式（out-of-the-box）
+内置全套comfyUI软件，100%兼容，并可同步升级.
+内置数十套常用热门插件node，以及配套的资源模型.
+内置数十套常用热门大模型，包括FLUX，SANA，GPT，PIXART，以及VIDEO视频模型.
+内置数十套常用热门工作流，json格式.
+内置大量开源案例，涵盖comfy官方网站全套学习课件.
+内置多款，ziwang字王网站原创AIGC资源.
+metafont原字库node插件，万能中英文字体插件，无需安装，支持truetype，openfont专业字体格式，以及jpg/png/gif/avi等多种unicode图像字库.
+内置文泉轩,王宗汉,字王大藏经等多款开源中文字库.
 
 
 社区提供
