@@ -16,6 +16,11 @@
 * 内置vscode，以及多种高效python、AI编程插件。
 * 百分百兼容comfy，可同步升级更新。
 * 内置数十组AIGC、3D、短视频插件。
+* 内置数十套常用热门大模型，支持：FLUX，SANA，GPT，PIXART。
+* 内置多套AI-3D、VIDEO短视频插件.
+* 社区提供海量热门工作流，json格式。
+* 大量开源案例，涵盖comfy官方网站全套学习课件.
+* 。。。。。。
 
 ## 【安装&使用方法】
 
@@ -70,13 +75,15 @@
 * 以上cuda运行库，以及相关软件，均可在zwai社区【资源中心】免费下载。
 * 扫描QQ群二维码，即可免费加入下载。
 
+
 ## 【补充说明】
 * @ps#1：
-* zwai-lab源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
+* zwai-lab智王AI工坊，源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
 * anacoda是商业平台，企业版年费约七八人民币元。（50美元x12月）
 * 因为系统架构，开发的AI程序，运行效率比原生Pytho，低5-7倍，pytorch官方明文宣布，不再进行对anacoda进行技术支持。
+* 智王AI项目，均采用 zw-GPT-studio 开发。
 * #
-* ps#2：
+* @ps#2：
 * 字王AI团队，是最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
 * AI时代，字王AI开源团队，更名为：智王AI开源组：ZWAI-TEAM
 
@@ -84,6 +91,8 @@
 * 超过一万套国标二级个性化中文字库IP版权。
 * 全球首套个性化中文字体：字王拙体（1988，是剪纸体母版，idea源自毕加索立体派风格。）
 * 多套个性化中文字库：《中华大字库》、metafont元字库，大藏经开源字体，gif动态中文气球体、。。。
+* AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
+* https://github.com/ziwang-com/AGM
 * 。。。。。。
 
 ##【智王AI开源组-网络社群】
@@ -92,41 +101,15 @@
 * meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
 * @ps，因为智王AI开源组正在转型，网站在调整升级。
 * 建议大家使用github项目网站，支持留言、发帖，互动更加方便。
-#
+* #
 * 智王Git网址：https://github.com/ziwang-com/
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
+* 百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
+  
+![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
 
-
-
-
-124134140#1群
-655402626（GPT+千人QQ大群）
-
-百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
-
-如有更改，最新下载地址请参见： QQ群文件：655402626（GPT+千人QQ大群）
-
-最新版本和更多资料，大家可以请访问以下网站：
-
-https://github.com/ziwang-com/zwPython
-APLLE苹果OOTB“开箱即用”模式（out-of-the-box）
-内置全套comfyUI软件，100%兼容，并可同步升级.
-内置数十套常用热门插件node，以及配套的资源模型.
-内置数十套常用热门大模型，包括FLUX，SANA，GPT，PIXART，以及VIDEO视频模型.
-内置数十套常用热门工作流，json格式.
-内置大量开源案例，涵盖comfy官方网站全套学习课件.
-内置多款，ziwang字王网站原创AIGC资源.
-metafont原字库node插件，万能中英文字体插件，无需安装，支持truetype，openfont专业字体格式，以及jpg/png/gif/avi等多种unicode图像字库.
-内置文泉轩,王宗汉,字王大藏经等多款开源中文字库.
-
-
-社区提供
-
-
-支持
-提供内置
-AGI、AIGC、Python大模型
-
+* QQ社群，都是千人大群，欢迎加入，共同学习。
+* QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
 
 全球首个集成式GPT开发平台。
 全球三大集成式python开发平台，zwPython-AI最新优化升级版。
@@ -134,70 +117,6 @@ AGI、AIGC、Python大模型
 采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
 智王AI项目，均采用 zw-GPT-studio 开发：
 AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
-
-
-
-智王AI研究院 ziwang.com m-f.vip
-
-zwai-lab，也
-
-zw-GPT-studio智王GPT研发平台
-
-原名：是
-
-字王
-
-zw-GPT-studio智王GPT研发平台
-智王AI研究院 ziwang.com m-f.vip
-
-GPT+快速开发神器，全球首个集成式GPT开发平台。
-全球三大集成式python开发平台，zwPython-AI最新优化升级版。
-强化了llm大语言模型的开发能力，
-采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
-智王AI项目，均采用 zw-GPT-studio 开发：
-AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
-chinese-StableVicuna，全球首个StableVicuna中文优化版。https://github.com/ziwang-com/chinese-StableVicuna
-AGI-MAP ，AGI模块库架构图 https://github.com/ziwang-com/AGI-MAP
-mini-AGI，GPT+神器，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链链 https://github.com/ziwang-com/mini-AGI
-zero-lora，zero零训练llm调参算法 https://github.com/ziwang-com/zero-lora
-zw-GPT三合一+群二维码
-
-【智王AI资源库】
-124134140#1群
-655402626（GPT+千人QQ大群）
-
-百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
-
-如有更改，最新下载地址请参见： QQ群文件：655402626（GPT+千人QQ大群）
-
-最新版本和更多资料，大家可以请访问以下网站：
-
-zw网站：http://www.ziwang.com
-meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
-智王Git网址：https://github.com/ziwang-com/
-智王迷你AGI项目：https://github.com/ziwang-com/zwAGI
-【附录：zwPython文档】
-
-感谢网友黄元同学制作的《zwPython安装及界面介绍》入门教学视频，配合《zwpy安装启动错误问题排除》可以解决大部分入门安装问题
-为统一开发环境，zwPython须解压到安装盘根目录下，建议为D盘，目录为：d：\zwPython. 强烈建议，安装到SSD固态硬盘，可加速5-10倍。
-
-mc02
-
-## zw-comfy插件,功能强大的,一站式开源集AIGC创意平台.
-全球三大集成式Python开发平台:zwPython智王Python最新AIGC强化版.
-详情其参见:(正在升级中,请等待...)
-* https://github.com/ziwang-com/zwPython
-
-### APLLE苹果OOTB"开箱即用"模式（out-of-the-box)
-* 内置全套comfyUI软件,100%兼容,并可同步升级.
-* 内置数十套常用热门插件node,以及配套的资源模型.
-* 内置数十套常用热门大模型,包括FLUX,SANA,GPT,PIXART,以及VIDEO视频模型.
-* 内置数十套常用热门workflow工作流,json格式.
-* 内置大量开源案例,涵盖comfy官方网站全套学习课件.
-
-### 内置多款,ziwang字王网站原创AIGC资源.
-* metafont原字库node插件,万能中英文字体插件,无需安装,支持truetype,openfont专业字体格式,以及jpg/png/gif/avi等多种unicode图像字库.
-* 内置文泉轩,王宗汉,字王大藏经等多款开源中文字库.
 
 
 
