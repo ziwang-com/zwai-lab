@@ -50,7 +50,7 @@
 * 例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
 * zwai-lab>>xpip pandas
 
-# 【目录说明】
+## 【目录说明】
 * D:\zwai-lab\.cache，hf模型下载目录，python模块库安装缓冲目录。
 * D:\zwai-lab\ComfyUI，工作流、AIGC-comfyUI主目录
 * D:\zwai-lab\doc，用户文档
@@ -93,7 +93,7 @@
 * https://github.com/ziwang-com/AGM
 * 。。。。。。
 
-##【智王AI开源组-网络社群】
+## 【智王AI开源组-网络社群】
 
 * zw网站：http://www.ziwang.com
 * meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
@@ -103,7 +103,7 @@
 * 智王Git网址：https://github.com/ziwang-com/
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 
-##【智王AI资源库】
+## 【智王AI资源库】
 *  百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
 *  阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
   
