@@ -1,5 +1,5 @@
 # zwai-lab智王AI工坊
-![xh016](https://github.com/user-attachments/assets/4e50413a-29b8-4fc8-bbb3-2b1fdac97256)
+![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
 
 * 全球三大/目前唯一，集成式AI开发平台。
 * GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
@@ -105,7 +105,7 @@
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 * 百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
   
-![xh016](https://github.com/user-attachments/assets/4e50413a-29b8-4fc8-bbb3-2b1fdac97256)
+![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
 
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
