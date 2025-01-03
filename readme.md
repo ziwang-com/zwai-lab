@@ -3,6 +3,7 @@
 zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
 
 是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
+
 系统源自zwPython，超过十年的开源Pyhon项目，曾用名：zw-GPT-Studio，zw-comfy。
 
 ## 主要特色
