@@ -6,7 +6,7 @@ zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-ID
 
 系统源自zwPython，超过十年的开源Pyhon项目，曾用名：zw-GPT-Studio，zw-comfy。
 
-![Uploading zwpy001.JPG…]()
+![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
 
 ## 主要特色
