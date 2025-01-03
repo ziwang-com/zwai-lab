@@ -1,12 +1,12 @@
 # zwai-lab智王AI工坊
 ![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
+（扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。）
 
 * 全球三大/目前唯一，集成式AI开发平台。
-* GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
+* GPT时代，AIGC、LLM大模型调参，AGI快速开发神器。
 * 行业首个AI-workflow工作流导向的智能IDE。
 * comfyUI+vscode，两大神器首次跨界融合。
-* 系统源自zwPython，超过十年的开源Pyhon项目
-* 扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。
+* 根正苗红，源自zwPython，历时十年的开源Pyhon项目。
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
@@ -14,9 +14,9 @@
 * 内置vscode，以及多种高效python、AI编程插件。
 * 百分百兼容comfy，可同步升级更新。
 * 内置数十组AIGC、3D、短视频插件。
-* 内置数十套常用热门大模型，支持：FLUX，SANA，GPT，PIXART。
-* 内置多套AI-3D、VIDEO短视频插件.
-* 社区提供海量热门工作流，json格式。
+* 内置各种热门大模型，支持：FLUX，SANA，GPT，PIXART。
+* 内置多套AI-3D、VIDEO短视频nodes节点插件.
+* 社区提供海量json格式工作流。
 * 大量开源案例，涵盖comfy官方网站全套学习课件.
 * 。。。。。。
 
@@ -29,13 +29,12 @@
 ### 注意：
 * 只有一级zwai-lab目录，以下模式：
 * d:\zwai-lab\zwai-lab\zw.bat
-* 有两层子目录，是错误解压：
-* 把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
+* 有两层子目录，是解压错误，把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
 
 ### 1#，运行comfy
 * 解压后，直接运行：
 * d:\zwai-lab\zw.bat
-* 即可进入AIGC系统，运行comfy，打开浏览器。
+* 即可运行comfy，进入AIGC系统。
 * comfy升级维护，请参看comfy文档，运行以下目录升级命令即可。
 * d:\zwai-lab\update
 
@@ -46,7 +45,7 @@
 * vscode升级，请下载便携版，直接解压覆盖即可。
 
 ### 3#：安装升级python模块库
-* 为方便用户，自行安装、更新python模块库，在主目录下，提供了一个xpip.bat批命令。
+* 安装、更新python模块库，运行批命令：
 * d:\zwai-lab\xpip.bat
 * 例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
 * zwai-lab>>xpip pandas
@@ -66,24 +65,24 @@
 
 ## 【运行环境】
 * windows 10,11， cuda-12.4+， python-3.12+
-
+* #
 * 运行前，请确保系统已经安装好cuda运行环境，部分模块和维护，可能需要安装相关软件。
 * ffmpeg、Git、graphviz。
 * python模块库，需要c编译软件，请下载：vc2022，或c语言v17版本，选择desktop桌面开发模式。
 * 以上cuda运行库，以及相关软件，均可在zwai社区【资源中心】免费下载。
 * 扫描QQ群二维码，即可免费加入下载。
 
-
 ## 【补充说明】
 * @ps#1：
 * zwai-lab智王AI工坊，源自zwPython，全球三大/目前唯一，集成式AI开发平台。
 * 曾用名：zw-GPT-Studio，zw-comfy。
 * anacoda是商业平台，企业版年费约七八人民币元。（50美元x12月）
-* 因为系统架构，开发的AI程序，运行效率比原生Pytho，低5-7倍，pytorch官方明文宣布，不再进行对anacoda进行技术支持。
+* 因为系统架构，开发的AI程序，运行效率比原生Python低5-7倍，pytorch官方明文宣布，不再对anacoda进行技术支持。
 * 智王AI项目，均采用 zw-GPT-studio 开发。
 * #
 * @ps#2：
-* 字王AI团队，是最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
+* 字王AI团队，最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
+* 参见论文：《人工智能与中文字库开发》（1989，《广东青年科学家论坛文集》）
 * AI时代，字王AI开源团队，更名为：智王AI开源组：ZWAI-TEAM
 
 ### 主要作品：
@@ -112,6 +111,10 @@
 
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
+
+![logo960](https://github.com/user-attachments/assets/3ae011e9-1b0c-470e-a7ee-25a18c2eacb0)
+
+* 
 
 
 
