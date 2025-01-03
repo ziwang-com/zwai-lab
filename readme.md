@@ -6,13 +6,13 @@ zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-ID
 系统源自zwPython，超过十年的开源Pyhon项目，曾用名：zw-GPT-Studio，zw-comfy。
 
 ## 主要特色
-### 全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
-### zwai-lab是行业首个集成式AI开发平台。
-### 行业首个AI-workflow智能工作流导向的AI-IDE。
+* 全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
+* zwai-lab是行业首个集成式AI开发平台。
+* 行业首个AI-workflow智能工作流导向的AI-IDE。
 
-### 内置vscode，以及多种高效率python、AI编程插件。
-### 百分百兼容comfy，可同步升级更新。
-### 内置数十组AIGC、3D、短视频插件。
+* 内置vscode，以及多种高效率python、AI编程插件。
+* 百分百兼容comfy，可同步升级更新。
+* 内置数十组AIGC、3D、短视频插件。
 
 
 https://github.com/ziwang-com/zwPython
