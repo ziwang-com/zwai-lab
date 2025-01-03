@@ -1,18 +1,14 @@
 # zwai-lab智王AI工坊
 ![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
-* zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
-* 是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
+* 全球三大/目前唯一，集成式AI开发平台。
+* GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
+* * 行业首个AI-workflow工作流导向的智能IDE。
 * 系统源自zwPython，超过十年的开源Pyhon项目
-* 曾用名：zw-GPT-Studio，zw-comfy。
-* zwai-lab智王AI工坊，以及相关软件，模型，均可在zwai社区【资源中心】免费下载。
-* 扫描QQ群二维码，即可加入智王AI社群，免费下载。
+* 扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
-
 ## 【主要特色】
-* 全球三大/目前唯一，高效支持AI开发的集成式Python开源平台。
-* 行业首个AI-workflow工作流导向的智能IDE。
 * 内置vscode，以及多种高效python、AI编程插件。
 * 百分百兼容comfy，可同步升级更新。
 * 内置数十组AIGC、3D、短视频插件。
@@ -78,7 +74,8 @@
 
 ## 【补充说明】
 * @ps#1：
-* zwai-lab智王AI工坊，源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
+* zwai-lab智王AI工坊，源自zwPython，全球三大/目前唯一，集成式AI开发平台。
+* 曾用名：zw-GPT-Studio，zw-comfy。
 * anacoda是商业平台，企业版年费约七八人民币元。（50美元x12月）
 * 因为系统架构，开发的AI程序，运行效率比原生Pytho，低5-7倍，pytorch官方明文宣布，不再进行对anacoda进行技术支持。
 * 智王AI项目，均采用 zw-GPT-studio 开发。
