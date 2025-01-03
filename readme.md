@@ -20,35 +20,35 @@
 ## 【安装&使用方法】
 
 * 采用苹果OOTB“开箱即用”模式（out-of-the-box），无需安装，解压即用。
-默认安装在D盘根目录：
-** d:\zwai-lab
+* 默认安装在D盘根目录：
+* d:\zwai-lab
 
 * 注意：
-**  只有一级zwai-lab目录，以下模式：
-** d:\zwai-lab\zwai-lab\zw.bat
-** 有两层子目录，是错误解压：
-** 把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
+* 只有一级zwai-lab目录，以下模式：
+* d:\zwai-lab\zwai-lab\zw.bat
+* 有两层子目录，是错误解压：
+* 把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
 
 ### 1#，运行comfy
 * 解压后，直接运行：
-** d:\zwai-lab\zw.bat
+* d:\zwai-lab\zw.bat
 * 即可进入AIGC系统，运行comfy，打开浏览器。
 * comfy升级维护，请参看comfy文档，运行以下目录升级命令即可。
-** d:\zwai-lab\update
+* d:\zwai-lab\update
 
 ### 2#，运行vscode
 * 解压后，直接运行：
-** d:\zwai-lab\vscode\code.exe
+* d:\zwai-lab\vscode\code.exe
 * 即可进入python开发编程环境。
 * vscode升级，请下载便携版，直接解压覆盖即可。
 
 ### 3#：安装升级python模块库
 * 为方便用户，自行安装、更新python模块库，在主目录下，提供了一个xpip.bat批命令。
-** d:\zwai-lab\xpip.bat
+* d:\zwai-lab\xpip.bat
 * 例如，安装升级padans，在zwai-lab目录，进入dos命令行，键入以下命令即可：
-** zwai-lab>>xpip 
+* zwai-lab>>xpip 
 
-## 【目录说明】
+# 【目录说明】
 * D:\zwai-lab\.cache，hf模型下载目录，python模块库安装缓冲目录。
 * D:\zwai-lab\ComfyUI，工作流、AIGC-comfyUI主目录
 * D:\zwai-lab\doc，用户文档
@@ -68,7 +68,7 @@
 
 
 * 运行前，请确保系统已经安装好cuda运行环境，部分模块和维护，可能需要安装相关软件。
-** ffmpeg、Git、graphviz。
+* ffmpeg、Git、graphviz。
 * python模块库，需要c编译软件，请下载：vc2022，或c语言v17版本，选择desktop桌面开发模式。
 * 以上cuda运行库，以及相关软件，均可在zwai社区【资源中心】免费下载。
 * 扫描QQ群二维码，即可免费加入下载。
@@ -78,7 +78,7 @@
 
 
 
-【补充说明】
+## 【补充说明】
 @ps#1：
 zwai-lab源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
 
