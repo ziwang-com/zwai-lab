@@ -1,8 +1,9 @@
 # zwai-lab智王AI工坊
-![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
+![xh016](https://github.com/user-attachments/assets/4e50413a-29b8-4fc8-bbb3-2b1fdac97256)
+
 * 全球三大/目前唯一，集成式AI开发平台。
 * GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
-* * 行业首个AI-workflow工作流导向的智能IDE。
+* 行业首个AI-workflow工作流导向的智能IDE。
 * 系统源自zwPython，超过十年的开源Pyhon项目
 * 扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。
 
@@ -103,7 +104,7 @@
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 * 百度网盘提取码：hiks https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
   
-![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
+
 
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
