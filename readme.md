@@ -1,14 +1,11 @@
 # zwai-lab智王AI工坊
-
 ![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
-  
 * zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
 * 是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
 * 系统源自zwPython，超过十年的开源Pyhon项目
 * 曾用名：zw-GPT-Studio，zw-comfy。
 * zwai-lab智王AI工坊，以及相关软件，模型，均可在zwai社区【资源中心】免费下载。
-* 扫描QQ群二维码，即可免费加入下载。
-
+* 扫描QQ群二维码，即可加入智王AI社群，免费下载。
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
@@ -27,7 +24,7 @@
 ** d:\zwai-lab
 
 * 注意：
-** 只有一级zwai-lab目录，以下模式：
+**  只有一级zwai-lab目录，以下模式：
 ** d:\zwai-lab\zwai-lab\zw.bat
 ** 有两层子目录，是错误解压：
 ** 把二级目录zwai-lab，移动到D盘根目录，合并覆盖即可。
