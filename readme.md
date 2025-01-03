@@ -2,12 +2,10 @@
 
 ![xh004](https://github.com/user-attachments/assets/494bc827-6ffe-44e2-bd40-c241460586aa)
 
-
-zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
-
-是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
-
-系统源自zwPython，超过十年的开源Pyhon项目，曾用名：zw-GPT-Studio，zw-comfy。
+* zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
+* 是GPT时代，AIGC、LLM大模型+，AGI快速开发神器。
+* 系统源自zwPython，超过十年的开源Pyhon项目
+* 曾用名：zw-GPT-Studio，zw-comfy。
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
