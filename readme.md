@@ -23,7 +23,7 @@
 * 默认安装在D盘根目录：
 * d:\zwai-lab
 
-* 注意：
+### 注意：
 * 只有一级zwai-lab目录，以下模式：
 * d:\zwai-lab\zwai-lab\zw.bat
 * 有两层子目录，是错误解压：
@@ -62,10 +62,7 @@
 * D:\zwai-lab\vscode\code.exe，运行python编程ide。
 
 ## 【运行环境】
-* windows 10,11
-* cuda-12.4+
-* python-3.12+
-
+* windows 10,11， cuda-12.4+， python-3.12+
 
 * 运行前，请确保系统已经安装好cuda运行环境，部分模块和维护，可能需要安装相关软件。
 * ffmpeg、Git、graphviz。
@@ -73,37 +70,31 @@
 * 以上cuda运行库，以及相关软件，均可在zwai社区【资源中心】免费下载。
 * 扫描QQ群二维码，即可免费加入下载。
 
-
-
-
-
-
 ## 【补充说明】
-@ps#1：
-zwai-lab源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
+* @ps#1：
+* zwai-lab源自zwPython，全球三大/目前唯一/高效支持AI开发的集成式Python开源平台。
+* anacoda是商业平台，企业版年费约七八人民币元。（50美元x12月）
+* 因为系统架构，开发的AI程序，运行效率比原生Pytho，低5-7倍，pytorch官方明文宣布，不再进行对anacoda进行技术支持。
+* #
+* ps#2：
+* 字王AI团队，是最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
+* AI时代，字王AI开源团队，更名为：智王AI开源组：ZWAI-TEAM
 
-anacoda是商业平台，企业版年费xx元，
-因为系统架构，开发的AI程序，运行效率比原生Pytho，低5-7倍，pytorch官方明文宣布，不再进行技术支持。
+### 主要作品：
+* 超过一万套国标二级个性化中文字库IP版权。
+* 全球首套个性化中文字体：字王拙体（1988，是剪纸体母版，idea源自毕加索立体派风格。）
+* 多套个性化中文字库：《中华大字库》、metafont元字库，大藏经开源字体，gif动态中文气球体、。。。
+* 。。。。。。
 
-@ps#2：
-字王AI团队，是最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
-AI时代，字王AI开源团队，更名为：智王AI开源组：ZWAI-TEAM
-主要作品：
-超过一万套国标二级个性化中文字库IP版权。
-全球首套个性化中文字体：字王拙体（1988，是剪纸体母版，idea源自毕加索立体派风格。）
-多套个性化中文字库：《中华大字库》、metafont元字库，大藏经开源字体，gif动态中文气球体、。。。
+##【智王AI开源组-网络社群】
 
-
-【智王AI开源组-网络社群】
-
-
-zw网站：http://www.ziwang.com
-meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
-@ps，因为智王AI开源组正在转型，网站在调整升级。
-建议大家使用github项目网站，支持留言、发帖，互动更加方便。
-
-智王Git网址：https://github.com/ziwang-com/
-zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
+* zw网站：http://www.ziwang.com
+* meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
+* @ps，因为智王AI开源组正在转型，网站在调整升级。
+* 建议大家使用github项目网站，支持留言、发帖，互动更加方便。
+#
+* 智王Git网址：https://github.com/ziwang-com/
+* zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 
 
 
