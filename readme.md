@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/ac2feafe-0b2b-411d-b079-b88e0d5e85df)# zwai-lab智王AI工坊
+# zwai-lab智王AI工坊
+
+![xh001](https://github.com/user-attachments/assets/6bd7d107-40c3-4057-b4fe-f225a46f8db9)
 
 zwai-lab智王AI工坊，原本是智王AI工作室，内部长期使用的AI-IDE平台。
 
