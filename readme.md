@@ -114,15 +114,14 @@
 ## 【智王AI资源库】
 *  百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
 *  阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
-  
-![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
-
+* #
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
 
-![logo960](https://github.com/user-attachments/assets/3ae011e9-1b0c-470e-a7ee-25a18c2eacb0)
+  
+![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
 
-* 
+
 
 
 
