@@ -85,9 +85,11 @@
 * @ps#1：
 * zwai-lab智王AI工坊，源自zwPython，全球三大/目前唯一，集成式AI开发平台。
 * 曾用名：zw-GPT-Studio，zw-comfy。
-* anacoda是商业平台，企业版年费约七八人民币元。（50美元x12月）
+* anacoda是商业平台，企业版年费约七八千人民币元。（50美元x12月）
 * 因为系统架构，开发的AI程序，运行效率比原生Python低5-7倍，pytorch官方明文宣布，不再对anacoda进行技术支持。
 * 智王AI项目，均采用 zw-GPT-studio 开发。
+  ![zwpy17](https://github.com/user-attachments/assets/0155af4c-c7c8-46c9-9d57-b72a9c606d07)
+
 * #
 * @ps#2：
 * 字王AI团队，最早从事AI中文字库开发，始于1989年，30+年一线AI工程经验。
