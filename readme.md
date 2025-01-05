@@ -2,6 +2,12 @@
 ![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
 （扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。）
 
+# 【ps：公众号相关blog】，扫描上图公众号二维码即可。
+* 《workflow智能工作流：AI变现飞天马》 https://mp.weixin.qq.com/s/jqNHuwVtLVMQ5_3dlhmcIQ?token=1948053569&lang=zh_CN
+* 《zwai-lab全球首个AI搞钱-工业母机》 
+* 《comfyUI+vscode，两大神器首次跨界融合》 
+
+
 * comfyUI+vscode，两大神器首次跨界融合。
 * 全球三大/目前唯一，集成式AI开发平台。
 * GPT时代，AIGC、LLM大模型调参，AGI快速开发神器。
