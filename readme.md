@@ -7,9 +7,7 @@
 * 《zwai-lab全球首个AI搞钱-工业母机》  https://mp.weixin.qq.com/s/qzVo5xafXegAavKmwywGuQ?token=1948053569&lang=zh_CN
 * 《comfyUI+vscode，两大神器首次跨界融合》 https://mp.weixin.qq.com/s/cd5EL8koaCnGTDft02YoGw?token=1948053569&lang=zh_CN
 
-* 
 * ###
-* 
 * comfyUI+vscode，两大神器首次跨界融合。
 * 全球三大/目前唯一，集成式AI开发平台。
 * GPT时代，AIGC、LLM大模型调参，AGI快速开发神器。
