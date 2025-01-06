@@ -14,6 +14,10 @@
 
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
 
+* 网络版3G多，包含了基本核心模块，包括：comfy，vscode，30多个核心nodes节点插件，只需另外下载模型即可。
+* 智王AI团队，内部开发版，超过650G，包含150个+精心筛选、完全兼容的nodes节点模块库。
+* 稍后，网盘，ftp会根据comfy文件机构，上传各种常用模型。
+* 智王版150+插件nodes节点插件合集，正在测试优化，稍后会一并发布。
 
 ## 【主要特色】
 * 内置vscode，以及多种高效python、AI编程插件。
