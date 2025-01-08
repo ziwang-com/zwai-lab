@@ -1,3 +1,54 @@
+
+
+## 【智王AI开源组-网络社群】
+
+* zw网站：http://www.ziwang.com
+* meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
+* @ps，因为智王AI开源组正在转型，网站在调整升级。
+* 建议大家使用github项目网站，支持留言、发帖，互动更加方便。
+* #
+* 智王Git网址：https://github.com/ziwang-com/
+* zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
+
+## ziwang AI Open Source Group - Online Community
+
+* ZW website: http://www.ziwang.com
+* Meta font Original Font Library: http://www.meta-font.vip , short domain m-f.vip
+* @ ps, as the Zhiwang AI open source team is undergoing transformation, the website is undergoing adjustments and upgrades.
+* It is recommended that everyone use the GitHub project website, which supports commenting and posting, making interaction more convenient.
+* #
+* Zhiwang Git website: https://github.com/ziwang-com/
+* ZWAI Lab project website: https://github.com/ziwang-com/zwai-lab
+
+## 【智王AI资源库】
+* Github项目网址：https://github.com/ziwang-com/zwai-lab
+* 百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
+* 阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
+* #
+* QQ社群，都是千人大群，欢迎加入，共同学习。
+* QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
+* 微信群请先+管理员微信：zwpython，注明：加群。
+
+-------------
+## 【ziwang AI Resource Library】
+* Github: https://github.com/ziwang-com/zwai-lab
+* Baidu Cloud Drive - Link: https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks Extract code: hiks
+* Alibaba Cloud Drive - Link: https://www.alipan.com/s/pZ5qewjCec8 Extract code: fs64
+* #
+* QQ community is a large group of thousands of people, welcome to join and learn together.
+* QQ group files, online disks/official account, and massive AI resources/models/documents are available for free download. Scan to join for free.
+
+* WeChat group, please first add the administrator's WeChat: zwpython， Note: Add to group.
+  
+![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
+
+
+
+因为模型文件都是10G左右，正在寻找合作发布通道，欢迎网友提供。
+We are looking for other publishing channels, and welcome netizens to provide them
+管理员微信：zwpython
+
+
 # zwai-lab智王AI工坊
 ![xh003](https://github.com/user-attachments/assets/723c2f24-077f-48e8-940c-8300abe09f5a)
 （扫描QQ群二维码，即可加入智王AI社群，免费下载相关软件，模型。）
@@ -12,7 +63,20 @@
 * 行业首个AI-workflow工作流导向的智能IDE。
 * 根正苗红，源自zwPython，十年老牌开源Python项目。
 
+
+
 ![zwcfy02x1st](https://github.com/user-attachments/assets/53dd4585-0718-42c6-b3de-665d11778cfb)
+
+
+### [ps: official account related blog], just scan the QR code of official account in the above figure.
+* Workflow Intelligent Workflow: AI Monetization Pegasus https://mp.weixin.qq.com/s/jqNHuwVtLVMQ5_3dlhmcIQ?token=1948053569&lang=zh_CN
+* ZWAI Lab is the world's first AI powered money maker - industrial mother machine https://mp.weixin.qq.com/s/qzVo5xafXegAavKmwywGuQ?token=1948053569&lang=zh_CN
+* ComfyUI+VSCode, the first cross-border integration of two major artifacts https://mp.weixin.qq.com/s/cd5EL8koaCnGTDft02YoGw?token=1948053569&lang=zh_CN
+* ###
+* The world's top three/currently the only integrated AI development platform.
+* In the era of GPT, AIGC and LLM large model tuning, AGI rapidly developed artifacts.
+* The industry's first AI workflow oriented intelligent IDE.
+* Root positive seedling red, derived from zwPython, a decade old open-source Python project.
 
 * 网络版仅3G多，包含了全部核心模块：comfy，vscode，30+nodes节点插件，只需下载模型即可。
 * 智王AI团队，内部开发版，超过650G，包含150个+精心筛选、完全兼容的nodes节点模块库。
@@ -115,19 +179,42 @@
 * 智王Git网址：https://github.com/ziwang-com/
 * zwai-lab项目网址：https://github.com/ziwang-com/zwai-lab
 
+## ziwang AI Open Source Group - Online Community
+
+* ZW website: http://www.ziwang.com
+* Meta font Original Font Library: http://www.meta-font.vip , short domain m-f.vip
+* @ ps, as the Zhiwang AI open source team is undergoing transformation, the website is undergoing adjustments and upgrades.
+* It is recommended that everyone use the GitHub project website, which supports commenting and posting, making interaction more convenient.
+* #
+* Zhiwang Git website: https://github.com/ziwang-com/
+* ZWAI Lab project website: https://github.com/ziwang-com/zwai-lab
+
 ## 【智王AI资源库】
-*  百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
-*  阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
+* Github项目网址：https://github.com/ziwang-com/zwai-lab
+* 百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
+* 阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
 * #
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
+* 微信群请先+管理员微信：zwpython，注明：加群。
 
+-------------
+## 【ziwang AI Resource Library】
+* Github: https://github.com/ziwang-com/zwai-lab
+* Baidu Cloud Drive - Link: https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks Extract code: hiks
+* Alibaba Cloud Drive - Link: https://www.alipan.com/s/pZ5qewjCec8 Extract code: fs64
+* #
+* QQ community is a large group of thousands of people, welcome to join and learn together.
+* QQ group files, online disks/official account, and massive AI resources/models/documents are available for free download. Scan to join for free.
+
+* WeChat group, please first add the administrator's WeChat: zwpython， Note: Add to group.
   
 ![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
 
 
 
-
-
+因为模型文件都是10G左右，正在寻找合作发布通道，欢迎网友提供。
+We are looking for other publishing channels, and welcome netizens to provide them
+管理员微信：zwpython
 
 
