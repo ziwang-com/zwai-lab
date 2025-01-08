@@ -1,7 +1,7 @@
 
 
 ## 【智王AI开源组-网络社群】
-
+![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
 * zw网站：http://www.ziwang.com
 * meta-font原字库：http://www.meta-font.vip，短域名 m-f.vip
 * @ps，因为智王AI开源组正在转型，网站在调整升级。
@@ -40,9 +40,6 @@
 
 * WeChat group, please first add the administrator's WeChat: zwpython， Note: Add to group.
   
-![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
-
-
 
 因为模型文件都是10G左右，正在寻找合作发布通道，欢迎网友提供。
 We are looking for other publishing channels, and welcome netizens to provide them
