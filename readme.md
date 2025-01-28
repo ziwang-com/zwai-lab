@@ -1,4 +1,9 @@
-
+## ps
+* https://github.com/ziwang-com/zwai-team
+* 智王AI开源团队·倡议书
+* Zhiwang AI Open Source Team · Proposal
+* 各位关注人工智能发展的朋友们，随着人工智能技术的不断进步，我们已经看到了AI在各个领域的广泛应用，尤其是在商业方面的巨大潜力。 然而，仅仅依靠技术的进步还不足以实现可持续的发展，我们还需要将这些技术转化为实际的商业应用，探索AI变现的新机会。 因此，我们在此发起组建一个以“AI变现”为核心目标的开源团体。
+* Dear friends who are concerned about the development of artificial intelligence, with the continuous progress of artificial intelligence technology, we have seen the widespread application of AI in various fields, especially in the field of business, with enormous potential. However, relying solely on technological advancements is not enough to achieve sustainable development. We also need to translate these technologies into practical commercial applications and explore new opportunities for AI monetization. Therefore, we hereby initiate the formation of an open-source group with the core goal of "AI monetization".
 
 ## 【智王AI开源组-网络社群】
 ![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
