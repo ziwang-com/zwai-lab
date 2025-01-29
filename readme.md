@@ -112,6 +112,8 @@
 * Github项目网址：https://github.com/ziwang-com/zwai-lab
 * 百度网盘-链接:  https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks  提取码:hiks 
 * 阿里云盘-链接:  https://www.alipan.com/s/pZ5qewjCec8  提取码: fs64
+* huggingface： https://huggingface.co/zwpython/comfyui-deepseek-r1-portable
+* hf-mirror： https://hf-mirror.com/zwpython/comfyui-deepseek-r1-portable
 * #
 * QQ社群，都是千人大群，欢迎加入，共同学习。
 * QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
@@ -122,6 +124,8 @@
 * Github: https://github.com/ziwang-com/zwai-lab
 * Baidu Cloud Drive - Link: https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks Extract code: hiks
 * Alibaba Cloud Drive - Link: https://www.alipan.com/s/pZ5qewjCec8 Extract code: fs64
+* huggingface： https://huggingface.co/zwpython/comfyui-deepseek-r1-portable
+* hf-mirror： https://hf-mirror.com/zwpython/comfyui-deepseek-r1-portable
 * #
 * QQ community is a large group of thousands of people, welcome to join and learn together.
 * QQ group files, online disks/official account, and massive AI resources/models/documents are available for free download. Scan to join for free.
