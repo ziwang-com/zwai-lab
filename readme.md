@@ -1,9 +1,61 @@
-## ps
-* https://github.com/ziwang-com/zwai-team
-* 智王AI开源团队·倡议书
-* Zhiwang AI Open Source Team · Proposal
-* 各位关注人工智能发展的朋友们，随着人工智能技术的不断进步，我们已经看到了AI在各个领域的广泛应用，尤其是在商业方面的巨大潜力。 然而，仅仅依靠技术的进步还不足以实现可持续的发展，我们还需要将这些技术转化为实际的商业应用，探索AI变现的新机会。 因此，我们在此发起组建一个以“AI变现”为核心目标的开源团体。
-* Dear friends who are concerned about the development of artificial intelligence, with the continuous progress of artificial intelligence technology, we have seen the widespread application of AI in various fields, especially in the field of business, with enormous potential. However, relying solely on technological advancements is not enough to achieve sustainable development. We also need to translate these technologies into practical commercial applications and explore new opportunities for AI monetization. Therefore, we hereby initiate the formation of an open-source group with the core goal of "AI monetization".
+## 2025-1-29：智王发布deepseek-r1懒人包，解压即用
+* 下载地址见文末，【智王AI资源中心】
+* 相关网址：
+* https://github.xyz/ziwang-com/comfyui-deepseek-r1
+* https://github.xyz/ziwang-com/zwai-lab
+* #
+* ComfyUI-r1节点原本是zwai自用的，发布这么久，很奇怪，到目前还是git上面，还是只有我们这个r1插件能够本地化部署。
+* 其他都是ollama 和API模式。
+* ollama主要是码农，类似linux，配置非常麻烦，大众用户少。
+* comfy很简单，美工都是小白，总人数多，已经是AIGC准工业平台。
+* 这次是r1官方没有comfy，不然ollama没机会。
+* 混元 sd flux官方全部内置comfy。
+* nv-sana，虽然也不兼容，官方comfyui-sana插件，因为不好用，连带sana这种能够高速直出4k的模型，一个月了都没有多少人熟悉。
+* deepseek发布的Janus-Pro模型，发布次日，也就是今天，git上面就出现了近10个comfy-Janus插件。
+* 可能还是r1的兼容性问题。
+*
+* ps：
+* 过了小一周，r1大火开始蔓延，本地化部署案例也出了不少。
+* 不过，好像zwai的deepseek-r1插件方案，仍然是目前唯一支持comfyui的。
+* 这个，可能是因为官方没有提供，comfy侧重aigc，美工居多，码农少。
+* 插件地址：
+* https://github.com/ziwang-com/comfyui-deepseek-r1
+* 参见： 全球首发deepseek-r1插件ComfyUI
+* 
+## 智王deepseek-r1懒人包【使用说明】
+* r1节点包发布后，很多老友想试用，一直找不到简单方便的集成版本法。
+* ComfyUI-r1节点和智王deepseek-r1懒人包，没有太多技术含量，绿色软件，解压即用。
+* 解压后，主要文件目录结构有
+* * d:\zwai-lab-r1\
+  * d:\zwai-lab-r1\zw.bat，运行zw.bat即可进入comfyUI系统。
+  * d:\zwai-lab-r1\doc\,相关文档目录
+  * d:\zwai-lab-r1\doc\deepseek-r1-zwai.json，智网r1测试工作流
+
+## 其他参看：
+* doc目录下的zwai-lab智王AI工坊文档，
+* comfyui-deepseek-r1说明文档
+* 相关网址：
+* https://github.xyz/ziwang-com/comfyui-deepseek-r1
+* https://github.xyz/ziwang-com/zwai-lab
+* 
+* 官方以下版本模型测试ok，其他自己测试：
+* DeepSeek-R1-Distill-Llama-8B
+* DeepSeek-R1-Distill-Qwen-1.5B
+* DeepSeek-R1-Distill-Qwen-7B
+* DeepSeek-R1-Distill-Qwen-14B
+* 
+* 模型下载后，复制到目录:
+* D:\zwai-lab-r1\comfyUI\models
+
+
+
+## 【官方模型下载地址】
+* https://hf-mirror.com/deepseek-ai/DeepSeek-R1
+* https://huggingface.co//deepseek-ai/DeepSeek-R1
+* 
+* r1懒人包，是zwai-lab智网AI工坊的r1定制版本，主要差异有：
+* 最大程度，简化了各种comfyUI节点，和python模型。
+* 内置1.5B模型，其他自己下载。
 
 ## 【智王AI开源组-网络社群】
 ![xh008](https://github.com/user-attachments/assets/4191bb09-1a33-4904-9e3f-2982d44e416f)
@@ -220,3 +272,9 @@ We are looking for other publishing channels, and welcome netizens to provide th
 管理员微信：zwpython
 
 
+## ps
+* https://github.com/ziwang-com/zwai-team
+* 智王AI开源团队·倡议书
+* Zhiwang AI Open Source Team · Proposal
+* 各位关注人工智能发展的朋友们，随着人工智能技术的不断进步，我们已经看到了AI在各个领域的广泛应用，尤其是在商业方面的巨大潜力。 然而，仅仅依靠技术的进步还不足以实现可持续的发展，我们还需要将这些技术转化为实际的商业应用，探索AI变现的新机会。 因此，我们在此发起组建一个以“AI变现”为核心目标的开源团体。
+* Dear friends who are concerned about the development of artificial intelligence, with the continuous progress of artificial intelligence technology, we have seen the widespread application of AI in various fields, especially in the field of business, with enormous potential. However, relying solely on technological advancements is not enough to achieve sustainable development. We also need to translate these technologies into practical commercial applications and explore new opportunities for AI monetization. Therefore, we hereby initiate the formation of an open-source group with the core goal of "AI monetization".
