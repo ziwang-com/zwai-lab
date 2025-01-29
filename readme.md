@@ -39,7 +39,7 @@
 * 参见： 全球首发deepseek-r1插件ComfyUI
 * 
 ## 智王deepseek-r1懒人包【使用说明】
-## Zhiwang Deepseek-r1 Lazy Pack 【 Instructions 】
+## ziwang Deepseek-r1 Lazy Pack 【 Instructions 】
 * r1节点包发布后，很多老友想试用，一直找不到简单方便的集成版本法。
 * ComfyUI-r1节点和智王deepseek-r1懒人包，没有太多技术含量，绿色软件，解压即用。
 * 
